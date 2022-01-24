@@ -40,8 +40,7 @@ Des que Martin Gardner introdujo el juego en _**Scientific Amercian**_ en 1970, 
 Desde los primeros días, ha sido un favorito en los laboratorios de computación, tanto por su interés teórico como por un ejercicio práctico de programación y visualización de datos. Conway solía odiar el juego de la vida, en gran parte porque había llegado eclipsar algunas de las otras cosas más profundas e importante que había hecho. Sin embargo, el juego ayudó a lanzar una nueva rama de las matemáticas, el campo de los autómatas celulares. 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omMcrvVGTMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![DOT CSV - El Juego de la vida](https://img.youtube.com/vi/omMcrvVGTMs/0.jpg)](https://www.youtube.com/watch?v=omMcrvVGTMs)
 
 ------
 
